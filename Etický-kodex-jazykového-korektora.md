@@ -1,5 +1,5 @@
 1) Respektuj  vyjadřování ostatních
-2( Jazykový korektor nezasahuje radikálně do znění textů
+2) Jazykový korektor nezasahuje radikálně do znění textů
 3) Jazykový korektor je od toho, aby opravoval jazykové chyby. Proto se jmenuje jazykový. Není to cenzor, není to vševědoucí. 
 4) Když existují dvě varianty zápisu, jedna je vizuálně "hezčí", ale autor použil tu druhou, není to chyba. Ponechte tu méně hezčí
 5) Vždy se ujistěte, že autor článku s vašimi změnami souhlasí, a že to nemyslel jinak. 
