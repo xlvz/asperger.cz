@@ -1,7 +1,7 @@
 asperger.cz
 ===========
 
-Prostředí pro podporu rozvoje projektu asperger.cz
+Prostředí pro podporu rozvoje projektu asperger.cz a sdílení informací potřebných k běhu. 
 
 Právě prováděné projekty
 ===========
