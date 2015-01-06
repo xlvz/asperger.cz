@@ -8,3 +8,4 @@ Právě prováděné projekty
 
 * Tvorba etického kodexu
 * Tvorba podmínek užívání
+* Tvorba učebnice pro malé aspergery
