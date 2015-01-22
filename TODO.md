@@ -15,13 +15,13 @@ Zabezpečit (některé!) články tak, aby:
 - Registrovaný a přihlášený uživatel ------> přístup bez omezení
 - Nepřihlášený uživatel -------------------> přístup po zadání hesla
 - Heslo se zadává pro každý článek, aby pak mohlo být hesla typu
--   Majdiny články
--   Tomášovy články
--   Atd. 
+  - Majdiny články
+  - Tomášovy články
+  - Atd. 
 - K heslu by se nemělo vztahovat omezení typu:
--   Každý článek jedinečné heslo
--   Každé heslo musí splňovat určité podmínky
--   Nevadí mi možnost adminem nastavená/vynucená politika
+  - Každý článek jedinečné heslo
+  - Každé heslo musí splňovat určité podmínky
+  - Nevadí mi možnost adminem nastavená/vynucená politika
 
 <i>Prokliknutí autora</i>
 
